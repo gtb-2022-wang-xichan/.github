@@ -16,4 +16,4 @@ And please let me introduce you to the cuteeeeest computer lover, my cat "Jinsan
 
 Glad to join Thoughtworks!
 
-Have a nice day everybody!
+Have a nice day everybody ^v^~
