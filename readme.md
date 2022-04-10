@@ -2,19 +2,18 @@
 
 Aloha! This is me, Cece-WangXichan
 
-![avatar](images/avatar.jpg)
+<img src="images/avatar.jpg" alt="avatar" width="40%" />
 
 "You see this avatar, you know it is me" -- Coach Xiaofeng
 
 I graduated from Rutgers last summer:
 
-![me](images/me.jpg)
+<img src="images/me.jpg" alt="me" width="60%" />
 
 And please let me introduce you to the cuteeeeest computer lover, my cat "Jinsangzi"
 
-![jinsangzi1](images/jinsangzi1.jpg)
-
-![jinsangzi2](images/jinsangzi2.jpg)
+<img src="images/jinsangzi1.jpg" alt="jinsangzi1" width="40%" />
+<img src="images/jinsangzi2.jpg" alt="jinsangzi2" width="40%" />
 
 Glad to join Thoughtworks!
 
